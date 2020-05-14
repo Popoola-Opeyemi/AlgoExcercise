@@ -1,0 +1,22 @@
+{
+  "name": "algoexcercise",
+  "version": "1.0.0",
+  "description": "Project repository for algorithm exercises solved",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Popoola-Opeyemi/AlgoExcercise.git"
+  },
+  "author": "Opeyemi-Popoola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Popoola-Opeyemi/AlgoExcercise/issues"
+  },
+  "homepage": "https://github.com/Popoola-Opeyemi/AlgoExcercise#readme",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
